@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Planning}{2}
+\contentsline {subsection}{\numberline {1.1}Lundi}{2}
+\contentsline {subsection}{\numberline {1.2}Mardi}{2}
+\contentsline {subsection}{\numberline {1.3}Mercredi}{2}
+\contentsline {subsection}{\numberline {1.4}Jeudi}{2}
+\contentsline {subsection}{\numberline {1.5}Vendredi}{2}
+\contentsline {section}{\numberline {2}Pr\IeC {\'e}sentation de App Inventor 2}{3}
+\contentsline {section}{\numberline {3}Support th\IeC {\'e}orique et exemples pratiques}{5}
+\contentsline {subsection}{\numberline {3.1}Les variables}{5}
+\contentsline {subsection}{\numberline {3.2}Les structures conditionnelles}{5}
+\contentsline {subsection}{\numberline {3.3}Les proc\IeC {\'e}dures}{7}
+\contentsline {subsubsection}{\numberline {3.3.1}Les proc\IeC {\'e}dures avec entr\IeC {\'e}e(s)}{7}
+\contentsline {subsection}{\numberline {3.4}Les boucles}{9}
+\contentsline {subsection}{\numberline {3.5}Divers}{9}
+\contentsline {subsubsection}{\numberline {3.5.1}Horloge}{9}
+\contentsline {subsubsection}{\numberline {3.5.2}Cadre}{10}
+\contentsline {subsubsection}{\numberline {3.5.3}Balle}{10}
+\contentsline {subsubsection}{\numberline {3.5.4}Image lutin}{10}
